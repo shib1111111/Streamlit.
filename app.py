@@ -13,12 +13,12 @@ else:
   st.warning("Division by 0 error. Please enter a non-zero number.")
   ans = "Not defined"
 
-st.write(f"Answer = {ans}")
 
 
 if st.button("Calculate"):
         st.write(f"Answer = {ans}")
-        st.write("submitted by")
-        st.write("Shib Kumar Saraf ; Email id : 21f1001520@student.onlinedegree.iitm.ac.in")
+        st.write("submitted by __")
+        st.write("Shib Kumar Saraf ;/n",
+                 "Email id : 21f1001520@student.onlinedegree.iitm.ac.in")
 
     
