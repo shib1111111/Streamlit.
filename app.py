@@ -7,7 +7,7 @@ st.header("Enter the Two Numbers")
 
 number1 = st.number_input(label= "Enter the 1st large Number")
 number2 = st.number_input(label= "Enter the 2st small Number")
-st.write(division)
+st.write(div)
 def div(): 
   if number2!=0:
         ans = num1 / num2
