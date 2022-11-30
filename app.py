@@ -13,4 +13,10 @@ else:
   st.warning("Division by 0 error. Please enter a non-zero number.")
   ans = "Not defined"
 
-st.write(f" {number1}/{number2} = {ans}")
+st.write(f"Answer = {ans}")
+
+def sub():
+        st.write("Shib Kumar Saraf, Email id : 21f1001520@student.onlinedegree.iitm.ac.in")
+st.button("submitted by "):
+        sub()
+    
