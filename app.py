@@ -12,4 +12,5 @@ if number2 != 0:
 else:
   st.warning("Division by 0 error. Please enter a non-zero number.")
   ans = "Not defined"
-st.write(ans)
+
+st.write(f"Answer = {ans}")
