@@ -10,7 +10,7 @@ number2 = st.number_input(label= "Enter the 2st Number")
 if number2 != 0:
         ans = number1 / number2
 else:
-  st.warning("Division by 0 error. Please enter Divisor as a non-zero number.")
+  st.warning("Division by 0 error. Please enter a non-zero number as divisor.")
   ans = "Not defined"
 
 
