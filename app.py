@@ -17,8 +17,8 @@ else:
 
 if st.button("Calculate"):
         st.write(f"Answer = {ans}")
-        st.write("submitted by __")
-        st.write("Shib Kumar Saraf ",
-                 "/n Email id : 21f1001520@student.onlinedegree.iitm.ac.in")
+        st.write("created by __")
+        st.write("       Shib Kumar Saraf ")
+        st.write("   Email id : 21f1001520@student.onlinedegree.iitm.ac.in")
 
     
