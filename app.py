@@ -15,8 +15,7 @@ else:
 
 st.write(f"Answer = {ans}")
 
-def sub():
-        st.write("Shib Kumar Saraf, Email id : 21f1001520@student.onlinedegree.iitm.ac.in")
-st.button("submitted by "):
-        sub()
+
+st.write("Shib Kumar Saraf, Email id : 21f1001520@student.onlinedegree.iitm.ac.in")
+
     
