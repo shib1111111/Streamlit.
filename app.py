@@ -16,7 +16,7 @@ else:
 st.write(f"Answer = {ans}")
 
 
-st.button("Submitted by Shib Kumar Saraf")
-st.write("Shib Kumar Saraf Email id : 21f1001520@student.onlinedegree.iitm.ac.in")
+if st.button("Submitted by Shib Kumar Saraf"):
+        st.write("Shib Kumar Saraf Email id : 21f1001520@student.onlinedegree.iitm.ac.in")
 
     
