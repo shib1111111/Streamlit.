@@ -1,9 +1,12 @@
 import streamlit as st
 import pandas as pd
-st.write('Division of Two Numbers')
+
+st.title('Division of Two Numbers')
+st.write("---")
 st.header("Enter the Two Numbers")
-number1 = st.number_input("Enter the 1st large Number",step=1,format="%.2f")
-number2 = st.number_input("Enter the 2st small Number",step=1,format="%.2f")
+
+number1 = st.number_input(label= "Enter the 1st large Number")
+number2 = st.number_input(label= "Enter the 2st small Number")
 st.write(division)
 def div(): 
   if number2!=0:
